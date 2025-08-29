@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "module": "ESNext",
+    "module": "nodenext",
     // 目標 JavaScript 版本
     // 模組系統
-    "moduleResolution": "node", // 模組解析⽅式
+    "moduleResolution": "nodenext", // 模組解析⽅式
     "strict": true,
     // 啟⽤嚴格型別檢查
     "esModuleInterop": true,

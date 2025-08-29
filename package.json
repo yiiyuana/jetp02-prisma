@@ -3,22 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "tpye": "module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yiiyuana/jetp02-prisma.git"
+    "url": "git+https://bitbucket.org/lsd0125/jetp02-prisma.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/yiiyuana/jetp02-prisma/issues"
+    "url": "https://bitbucket.org/lsd0125/jetp02-prisma/issues"
   },
-  "homepage": "https://github.com/yiiyuana/jetp02-prisma#readme",
+  "homepage": "https://bitbucket.org/lsd0125/jetp02-prisma#readme",
   "dependencies": {
     "@prisma/client": "^6.14.0",
     "bcrypt": "^6.0.0",
